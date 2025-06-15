@@ -67,3 +67,6 @@ Challenges and Future Directions
 Despite their advantages, AI chatbots face challenges such as handling ambiguous queries, maintaining context over long conversations, and understanding complex language nuances. However, advancements in transformer models like GPT, BERT, and others are continuously enhancing chatbot capabilities.
 
 Future AI chatbots will likely feature more emotional intelligence, multi-language support, and deeper integration with other digital systems, making them even more indispensable tools for communication and automation.
+
+## OUTPUT:
+![Image](https://github.com/user-attachments/assets/aafc5226-6929-4bb7-83d9-553add71c4bc)
